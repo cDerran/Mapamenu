@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/buscar_Lugar"
+                android:icon="@drawable/ic_op1"
+                android:title="Mapa con una ubicación">
+
+            </item>
+            <item
+                android:id="@+id/Ruta"
+                android:icon="@drawable/ic_op2"
+                android:title="Mapa con ruta">
+
+            </item>
+            <item
+                android:id="@+id/UsandoGPS"
+                android:icon="@drawable/ic_op3"
+                android:title="Mapa con ruta usando GPS">
+
+            </item>
+        </menu>
+
+    </item>
+</menu>
